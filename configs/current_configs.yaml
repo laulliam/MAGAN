@@ -1,0 +1,11 @@
+batch_size: 64
+clip_gradient: 0.5
+eval_freq: 1
+loss_weights: 0.5
+lr: 0.0006
+n_epoch: 200
+print_freq: 20
+snapshot_pref: ./Exps/WeaklySupv/0525/
+start_epoch: 0
+test_batch_size: 16
+weight_decay: 5e-4
